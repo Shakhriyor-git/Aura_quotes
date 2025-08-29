@@ -33,6 +33,10 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             text: "Believe you can and you're halfway there.",
             author: "Theodore Roosevelt"
+        },
+        {
+            text: "Patience is the key to success.",
+            author: "Bill Gates"
         }
     ];
 
